@@ -5,8 +5,15 @@
 Bundle 'gmarik/vundle'
 
 Bundle 'nanotech/jellybeans.vim'
+Bundle 'klen/python-mode'
 
-Bundle 'Lokaltog/vim-powerline'
+" Bundle 'Lokaltog/vim-powerline'
+Bundle 'MarcWeber/vim-addon-mw-utils'
+Bundle 'tomtom/tlib_vim'
+Bundle 'garbas/vim-snipmate'
+Bundle 'honza/vim-snippets'
+
+" Bundle 'Lokaltog/vim-powerline'
 
 Bundle 'kien/ctrlp.vim'
 Bundle 'scrooloose/nerdtree'
@@ -37,12 +44,12 @@ Bundle 'sheerun/vim-polyglot'
 Bundle 'bats.vim'
 Bundle 'tpope/vim-rails'
 Bundle 'ap/vim-css-color'
-Bundle 'mxw/vim-jsx'
+" Bundle 'mxw/vim-jsx'
 
 Bundle 'tjennings/git-grep-vim'
 
-Bundle 'robbles/logstash.vim'
-Bundle 'terryma/vim-multiple-cursors'
+" Bundle 'robbles/logstash.vim'
+" Bundle 'terryma/vim-multiple-cursors'
 
 Bundle 'tpope/vim-sleuth'
-Bundle 'markcornick/vim-terraform'
+" Bundle 'markcornick/vim-terraform'
