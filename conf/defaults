@@ -2,6 +2,10 @@
 filetype plugin indent on
 let mapleader = ","
 
+" Disable Python-Mode auto folding:
+set foldlevelstart=999
+set foldlevel=999
+
 " Move between terminals using ALT + Arrows
 nnoremap <silent> <A-Right> <c-w>l
 nnoremap <silent> <A-Left> <c-w>h
