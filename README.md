@@ -5,9 +5,6 @@ My vim configuration, tested on Ubuntu 14.04
 
 ## Installation
 
-Install font from https://github.com/scotu/ubuntu-mono-powerline for the
-[powerline](https://github.com/Lokaltog/vim-powerline) plugin. Then run:
-
     $ sudo apt-get install vim vim-gnome
     $ git clone https://github.com/fgrehm/vimfiles.git
     $ cd vimfiles && ./setup.sh
