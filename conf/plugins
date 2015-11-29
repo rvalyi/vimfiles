@@ -4,6 +4,17 @@
 " required!
 Bundle 'gmarik/vundle'
 
+" rst support:
+Bundle 'Rykka/riv.vim'
+" NeoBundle 'Rykka/InstantRst'
+
+Bundle 'tpope/vim-liquid'
+Bundle 'tpope/vim-haml'
+
+" see http://vimcasts.org/episodes/aligning-text-with-tabular-vim/
+Bundle 'godlygeek/tabular'
+Bundle 'plasticboy/vim-markdown'
+
 Bundle 'nanotech/jellybeans.vim'
 Bundle 'klen/python-mode'
 
